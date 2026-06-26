@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Express</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="weather-container">
+        <h2>🌦️ Weather Forecast</h2>
+        <div class="search-box">
+            <input type="text" id="city-input" placeholder="Enter city name (e.g., Chennai)...">
+            <button id="search-btn">Search</button>
+        </div>
+
+        <div class="weather-info" id="weather-info">
+            <h1 id="city-name">City Name</h1>
+            <p id="weather-status">Status</p>
+            <div class="temp-display">
+                <span id="temperature">--</span>°C
+            </div>
+            <div class="details-grid">
+                <div class="detail-card">
+                    <p>💧 Humidity</p>
+                    <h3 id="humidity">--%</h3>
+                </div>
+                <div class="detail-card">
+                    <p>💨 Wind Speed</p>
+                    <h3 id="wind-speed">-- km/h</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
