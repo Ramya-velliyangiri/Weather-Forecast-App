@@ -40,11 +40,7 @@ weather-forecast-app/
 
 2. Open the project folder.
 
-3. Launch `index.html` in your browser.
-
-## 📸 Screenshot
-
-_Add a screenshot of your application here._
+3. Launch `index.html` in your browser
 
 ## 🔮 Future Enhancements
 
