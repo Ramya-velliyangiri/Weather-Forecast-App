@@ -2,6 +2,9 @@
 
 A modern and responsive weather forecast web application that provides real-time weather updates using a Weather API. The application allows users to search for any city and instantly view accurate weather information through a clean, intuitive, and mobile-friendly interface.
 
+Intern ID:CITS2890
+---
+
 ## ✨ Features
 
 - 🌍 Search weather by city name
